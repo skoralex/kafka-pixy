@@ -3,7 +3,7 @@ module github.com/mailgun/kafka-pixy
 go 1.16
 
 require (
-	github.com/Shopify/sarama v1.38.1
+	github.com/Shopify/sarama v1.24.0
 	github.com/davecgh/go-spew v1.1.1
 	github.com/fatih/structs v1.1.0 // indirect
 	github.com/go-ini/ini v1.46.0 // indirect
